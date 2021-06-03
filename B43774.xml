@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the reversal of Leisler's attainder humbly offered to the consideration of the honourable House of Commons.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43774</idno><idno type="EEBO-CITATION">489265127</idno>
+  <idno type="VID">208689</idno>
+  <idno type="EEBO-PROQUEST">2240889474</idno>
+  
+            <idno type="OCLC"> 489265127</idno>
+            <idno type="OCLC">ocn 489265127</idno>
+            <idno type="STC">Wing R519A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208689)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the reversal of Leisler's attainder humbly offered to the consideration of the honourable House of Commons.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Leisler, Jacob, d. 1691 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term type="geographic_name">New York (State) --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+               <term type="geographic_name">New York (N.Y.) --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+               <term type="geographic_name">United States --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208689:1"/>
+            <pb facs="tcp:208689:2"/>
+            <pb facs="tcp:208689:2"/>
+            <head>REASONS FOR THE Reversal of LEISLER'S Attainder. <hi>Humbly offered to the Consideration of the Honourable</hi> House of Commons.</head>
+            <p>IN the Month of <hi>February</hi> 1688. there came News to <hi>New-York,</hi> that the then Prince of <hi>Orange</hi> was Landed in <hi>England;</hi> and in <hi>April</hi> then following, the In<g ref="char:EOLhyphen"/>habitants of <hi>New-York</hi> received an account that the People of <hi>New England</hi> had seized upon Sir <hi>Edmond Andross</hi> (the then Governor of <hi>New England</hi> and <hi>New-York</hi>) Mr. <hi>Dudley</hi> the President, and several others of his Council, as well affected to King <hi>James</hi>'s Interest; and the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>upon the People declared for the Prince of <hi>Orange</hi> and Protestant Interest, <hi>&amp;c.</hi> Whereupon those of the Militia, and others of <hi>New-York,</hi> finding that Captain <hi>Nichols<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> (the then Deputy-Governor of <hi>New-York,</hi> under Sir <hi>Edmond Andross</hi>) would not there declare for the then Prince of <hi>Orange, &amp;c.</hi> The Militia seized upon the Fort, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd by turns the Captains of the Militia (of which Captain <hi>Leslier</hi> was one) ke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Guard there; and thereupon sent their Circular Letters to chuse an <hi>Assembly,</hi> which <hi>Assembly,</hi> or Committee of Safety, being met <hi>June</hi> 1689.<note place="margin">Captain <hi>Leisler</hi> by the Assem<g ref="char:EOLhyphen"/>bly first made Captain of the Fort, and soon after Com<g ref="char:EOLhyphen"/>mander in Chief of <hi>New-York.</hi>
+               </note>
+               <hi>Under their Hands and Seals appointed the said Captain</hi> Leslier <hi>Cap<g ref="char:EOLhyphen"/>tain of the Fort; and in</hi> August <hi>then following, under heir hands and Seals constituted the said Captain</hi> Leslier <hi>Commander in Chief of the Province of</hi> New-York, <hi>till Order should come from their then Majesties.</hi> In <hi>December</hi> then following, there arrived a Messenger from <hi>England</hi> with a Letter from His Majesty, under th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Signet, thus directed;</p>
+            <p>
+               <hi>To our Trusty and Well-beloved</hi> Francis Nicholso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>Esq; our Lieutenant Governor, and Commander in Chief of our Province of New-York in</hi> America. <hi>And in his Absence to such as for the time being, take care for preserving the Peace, and Administring the Laws in our said Province of</hi> New-York <hi>in</hi> America.</p>
+            <p>Which Letter, after a short introduction, run<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in these words;
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>We do hereby <hi>Authorize and Impower you to take upon you the Government</hi> of the said Province, calling to your Assistance in the Administration thereof,<note place="margin">Captain <hi>Leisler</hi> by the King constituted Deputy-Go<g ref="char:EOLhyphen"/>vernor of <hi>New York.</hi>
+                        </note> the Principal Freeholders and Inhabitants of the same, or so many of them as you <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hall think fit: Willing and Requiring you to do and perform all things which to the Place and Office of Our <hi>Lieutenant Governor and Commander in Chief</hi> of Our Province of <hi>New-York,</hi> doth or may appertain, as you shall find necessary for Our Service, and the good Government of Our Subjects, according to the Laws and Customs of Our said Province until further Order from Us; and so We bid you fare<g ref="char:EOLhyphen"/>well.</p>
+                     <closer>
+                        <dateline>Given at Our Court at <hi>Whitehall</hi>
+                           <date>the 30th. Day of <hi>July, 1689;</hi> in the First Year of Our Reign.</date>
+                        </dateline>
+                        <signed>
+                           <hi>By His Majesties Command,</hi> Nottingham.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Captain <hi>Leisler</hi> (being as before) Constituted <hi>Commander in Chief of the Province of New-York,</hi> and <hi>Nicholson</hi> having been gone from <hi>New-York</hi> about <hi>six Months</hi> before the Kings Lettter Arriv'd: The Messenger told Capt. <hi>Leisler,</hi> that if he would receive the Letter,<note place="margin">Note.</note> and give a Receipt for the same, he should have it; which Capt. <hi>Leisler</hi> accordingly did,<note place="margin">Captain <hi>Leisler</hi> by virtue of the King's Let<g ref="char:EOLhyphen"/>ter, acts as Lieutenant-Governor for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3 Months be<g ref="char:EOLhyphen"/>fore <hi>Ingoldsby</hi> arrived.</note> and Capt. <hi>Leisler being by His Majesty thus Constituted Lieut. Governor,</hi> he continued by Virtue <hi>of this Authority under the Signet, Lieut. Governor without any Opposition, for about <hi>thirteen</hi> Months, and then</hi> Capt. <hi>Ingoldsby</hi> Arriv'd at <hi>New-York</hi> with two Companies of Foot, who <hi>by his Commission was obliged to obey the Governor of</hi> New-York <hi>for <hi>the time be<g ref="char:EOLhyphen"/>ing;</hi>
+               </hi> Capt. <hi>Ingoldsby</hi> disowning Capt. <hi>Leisler</hi>'s Government, without any Authority <hi>deman<g ref="char:EOLhyphen"/>ded Possession of the Fort,</hi> which <hi>Leisler refused;</hi> but offer'd him and his Soldiers all the
+<pb facs="tcp:208689:3"/> Accommodations the City of <hi>New-York</hi> could afford.<note place="margin">
+                  <hi>Ingoldsby,</hi> be<g ref="char:EOLhyphen"/>fore <hi>Slaughters</hi> arrival, de<g ref="char:EOLhyphen"/>mands Posses<g ref="char:EOLhyphen"/>sion of the Fort, (with<g ref="char:EOLhyphen"/>out producing an Autho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity so to do); which <hi>Le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fus'd to give.</note> Capt. <hi>Ingoldsby</hi> continued some short time peaceably at <hi>New-York;</hi> at Length, upon Complaints by the Inhabitants of <hi>New-York,</hi> against the rudeness of Capt. <hi>Ingoldsby</hi>'s Soldiers, there happen'd some Di<g ref="char:EOLhyphen"/>sturbance, and thereupon <hi>Ingoldsby</hi> planted Guns against the Fort, <hi>&amp;c.</hi> So that soon after many Guns were fired both against, and from the Fort. On the <hi>nineteenth</hi> of <hi>March</hi> 1690, in the Evening, Coll. <hi>Slaughter</hi> Arrived at <hi>New-York,</hi> and that very Night read his Commission, and Swore four of his Council, and then fent Capt. <hi>In<g ref="char:EOLhyphen"/>goldsby</hi> to the Fort to demand Possession thereof; Capt. <hi>Leisler</hi> hereupon sent one that knew Coll. <hi>Slaughter,</hi> out of the Fort, to see whether the Coll. was Arrived, and the Messenger returning told him that Coll. <hi>Slaughter</hi> was come; upon which Capt. <hi>Lei<g ref="char:EOLhyphen"/>sler</hi> about ten that night sent two Persons to Coll. <hi>Slaughter</hi> to Congratulate his Arrival, and to offer him Possession of the Fort, and to receive his Commands, and Capt. <hi>In<g ref="char:EOLhyphen"/>goldsby</hi> did then promise those Messengers should safely return, but contrary hereunto those Persons were Seized by Coll. <hi>Slaughter;</hi> upon notice hereof, Capt. <hi>Leisler</hi> took care to put all things in order for the delivery of the Fort the next Morning to the Go<g ref="char:EOLhyphen"/>vernor, and accordingly in the Morning sent a Letter to the Governor, desiring him to send one to take Possession of the Fort, whereupon Capt. <hi>Ingoldsby</hi> was sent, and then Capt. <hi>Leisler</hi> order'd the Gates to be open'd, and Capt. <hi>Ingoldsby</hi> with his Soldiers were let in; <hi>Leisler</hi> Commanded about three Hundred Men then <hi>with him in the Fort,</hi> to lay down their Arms, which t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey immediately did; and March'd out of the Fort.</p>
+            <p>
+               <hi>There happened no Act of Hostility after Collonel</hi> Slaughter <hi>Landed.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Leisler</hi> is in<g ref="char:EOLhyphen"/>dicted of High Treason char<g ref="char:EOLhyphen"/>ged to be committed two days be<g ref="char:EOLhyphen"/>fore <hi>Slaughter</hi> landed, and consequently before <hi>Leisler</hi>'s Authority de<g ref="char:EOLhyphen"/>termin'd.</note>Captain <hi>Leisler</hi> and many under him were made Prisoners, and soon after <hi>Leslier, Milbourn,</hi> and others, were tried f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r High Treason and Felony charg'd against them to be Committed the <hi>Seventeenth</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>March,</hi> 1690. At this Court Mr. <hi>Dudley <hi>was Chief Justice or President;</hi>
+               </hi> Leisler <hi>and</hi> Milbourn <hi>receiv'd Sentence of Death, and were <hi>Executed</hi> accordingly.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> It's objected against the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill, That <hi>Leisler</hi> suffered according to Law, <hi>in that he would not plead.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> One of the Witnesses that <hi>opposed</hi> this Bill, declared, That Captain <hi>Leisler</hi> pro<g ref="char:EOLhyphen"/>duced to the Court the King's before-mention'd Letter,<note place="margin">The occasion of <hi>Leisler</hi>'s not pleading.</note> and desired (before he plead<g ref="char:EOLhyphen"/>ed) to be by the Court resolved, <hi>Whether by that Letter he had any Authority.</hi>—This Question <hi>Leisler</hi> often <hi>press'd,</hi> and t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at Court as often <hi>refused</hi> to give him any Answer thereunto; and <hi>This <hi>occasioned</hi>
+               </hi> Leisler<hi>'s not Pleading.</hi> —But the <hi>Merit</hi> of the <hi>Whole <hi>Case</hi>
+               </hi> is <hi>Now</hi> before this Honourable House:<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Whole</hi> Me<g ref="char:EOLhyphen"/>rit of the Case now before the House</note> And (it's humbly hop'd) <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appear, That <hi>The <hi>High-Trea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n</hi>
+               </hi> charged in the Indictment to be committed the <hi>Seventeenth</hi> Day of <hi>March,</hi> 1690, was <hi>nothing more</hi> than <hi>Leisler</hi>'s <hi>then <hi>refusing</hi>
+               </hi> to <hi>sur<g ref="char:EOLhyphen"/>render</hi> the Fort to Captain <hi>Ingoldsby,</hi> who not only <hi>without,</hi> but even <hi>against</hi> the King's Authority demanded the same. —For Captain <hi>Ingoldsby</hi> was obliged by <hi>express <hi>Words</hi>
+               </hi> in his Commission,<note place="margin">
+                  <hi>The</hi> High-Treason for which <hi>Leisler</hi> was executed.</note> to <hi>obey the Commander in Chief of</hi> New York <hi>for the time being;</hi> and <hi>Leisler</hi> (as is humbly thought) was <hi>then <hi>such, and so continued till the</hi> Nineteenth, <hi>when Collonel</hi>
+               </hi> Slaughter <hi>landed.</hi>
+            </p>
+            <p>Whether this Relation was prov'd before that Honourable <hi>Committee</hi> that last Sate upon this Bill, Is Humbly Submitted to those worthy Members then present — And if this Account was then prov'd: It's Humbly hop'd this Bill may pass.</p>
+            <pb facs="tcp:208689:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
